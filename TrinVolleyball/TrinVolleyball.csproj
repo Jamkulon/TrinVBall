@@ -1,0 +1,62 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PackageTargetFallback>$(PackageTargetFallback);portable-net45+win8+wp8+wpa81;</PackageTargetFallback>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="wwwroot\images\12Back.png" />
+    <Content Include="wwwroot\images\Desert Sky Club\team1.jpg" />
+    <Content Include="wwwroot\images\Desert Sky Club\team2.jpg" />
+    <Content Include="wwwroot\images\Desert Sky Club\trin10.jpg" />
+    <Content Include="wwwroot\images\Desert Sky Club\trin11.jpg" />
+    <Content Include="wwwroot\images\Desert Sky Club\trin12.jpg" />
+    <Content Include="wwwroot\images\Desert Sky Club\trin13.jpg" />
+    <Content Include="wwwroot\images\Desert Sky Club\trin134jpg.jpg" />
+    <Content Include="wwwroot\images\Desert Sky Club\trin14.jpg" />
+    <Content Include="wwwroot\images\Desert Sky Club\trin15.jpg" />
+    <Content Include="wwwroot\images\Desert Sky Club\trin16.jpg" />
+    <Content Include="wwwroot\images\Desert Sky Club\trin18.jpg" />
+    <Content Include="wwwroot\images\Desert Sky Club\trin19.jpg" />
+    <Content Include="wwwroot\images\Desert Sky Club\trin3.jpg" />
+    <Content Include="wwwroot\images\Desert Sky Club\trin4.jpg" />
+    <Content Include="wwwroot\images\Desert Sky Club\trin5.jpg" />
+    <Content Include="wwwroot\images\Desert Sky Club\trin7.jpg" />
+    <Content Include="wwwroot\images\Desert Sky Club\trin8.jpg" />
+    <Content Include="wwwroot\images\Desert Sky Club\trin9.jpg" />
+    <Content Include="wwwroot\images\Desert Sky Club\trinBlock1.jpg" />
+    <Content Include="wwwroot\images\Desert Sky Club\tring6.jpg" />
+    <Content Include="wwwroot\images\Desert Sky Club\tring9.jpg" />
+    <Content Include="wwwroot\images\Desert Sky Club\tringBlock2.jpg" />
+    <Content Include="wwwroot\images\Desert Sky Club\trinServe1.jpg" />
+    <Content Include="wwwroot\images\Desert Sky Club\trinServe2.jpg" />
+    <Content Include="wwwroot\images\Desert Sky Club\trinServe3.jpg" />
+    <Content Include="wwwroot\images\Desert Sky Club\trinServe4.jpg" />
+    <Content Include="wwwroot\images\Desert Sky Club\trinServe5.jpg" />
+    <Content Include="wwwroot\images\Desert Sky Club\trinServe6.jpg" />
+    <Content Include="wwwroot\images\Desert Sky Club\trinServe7.jpg" />
+    <Content Include="wwwroot\images\Desert Sky Club\trinvball1.jpg" />
+    <Content Include="wwwroot\images\Desert Sky Club\trinvball2.jpg" />
+    <Content Include="wwwroot\images\HomePage\trinHome1.png" />
+    <Content Include="wwwroot\images\HomePage\trinHome2.jpg" />
+    <Content Include="wwwroot\images\HomePage\trinHome3.jpg" />
+    <Content Include="wwwroot\images\HomePage\trinHome4.jpg" />
+    <Content Include="wwwroot\images\Video\TrinVideo1.mp4" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore" Version="1.1.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="1.1.3" />
+    <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="1.1.2" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="1.1.2" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.BrowserLink" Version="1.1.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="1.0.1" />
+  </ItemGroup>
+
+</Project>

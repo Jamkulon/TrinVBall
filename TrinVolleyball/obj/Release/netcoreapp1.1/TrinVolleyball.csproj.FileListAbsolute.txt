@@ -1,0 +1,9 @@
+C:\Users\JKulon\Desktop\Trinity Volleyball Website\TrinVolleyball\TrinVolleyball\bin\Release\netcoreapp1.1\TrinVolleyball.deps.json
+C:\Users\JKulon\Desktop\Trinity Volleyball Website\TrinVolleyball\TrinVolleyball\bin\Release\netcoreapp1.1\TrinVolleyball.runtimeconfig.json
+C:\Users\JKulon\Desktop\Trinity Volleyball Website\TrinVolleyball\TrinVolleyball\bin\Release\netcoreapp1.1\TrinVolleyball.runtimeconfig.dev.json
+C:\Users\JKulon\Desktop\Trinity Volleyball Website\TrinVolleyball\TrinVolleyball\bin\Release\netcoreapp1.1\TrinVolleyball.dll
+C:\Users\JKulon\Desktop\Trinity Volleyball Website\TrinVolleyball\TrinVolleyball\bin\Release\netcoreapp1.1\TrinVolleyball.pdb
+C:\Users\JKulon\Desktop\Trinity Volleyball Website\TrinVolleyball\TrinVolleyball\obj\Release\netcoreapp1.1\TrinVolleyball.AssemblyInfo.cs
+C:\Users\JKulon\Desktop\Trinity Volleyball Website\TrinVolleyball\TrinVolleyball\obj\Release\netcoreapp1.1\TrinVolleyball.dll
+C:\Users\JKulon\Desktop\Trinity Volleyball Website\TrinVolleyball\TrinVolleyball\obj\Release\netcoreapp1.1\TrinVolleyball.pdb
+C:\Users\JKulon\Desktop\Trinity Volleyball Website\TrinVolleyball\TrinVolleyball\obj\Release\netcoreapp1.1\TrinVolleyball.csprojResolveAssemblyReference.cache
